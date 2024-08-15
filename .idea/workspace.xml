@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc621ae0-8177-4849-8c9e-c610ee3e742a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercícios/r.py" beforeDir="false" />
-    </list>
+    <list default="true" id="dc621ae0-8177-4849-8c9e-c610ee3e742a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +32,12 @@
   &quot;keyToString&quot;: {
     &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bruno/OneDrive/Documentos/MeusProjetos/Exercicios-Python-CodigoBrazuka/Exercícios/Atividade 15 - Tabuada.py&quot;
   }
 }</component>
   <component name="RunManager">
-    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Atividade 15 - Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios-Python-CodigoBrazuka" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,12 +46,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (pythonProject)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios-Aletórios" />
+      <option name="SDK_NAME" value="Python 3.12 (pythonProject1)" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\bruno\OneDrive\Documentos\MeusProjetos\Exercicios-Python-CodigoBrazuka" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios-Aletórios/ex001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/Atividade 15 - Tabuada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex001" />
+        <item itemvalue="Python.Atividade 15 - Tabuada" />
       </list>
     </recent_temporary>
   </component>
