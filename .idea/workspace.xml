@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc621ae0-8177-4849-8c9e-c610ee3e742a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercícios/Atividade 12 - Jogo de Adivinhação.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/Atividade 21 - Cálculo área de Círculo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Atividade 20 - Números Pares e Ímpares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Atividade 20 - Números Pares e Ímpares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Python.Atividade 18 - Sequência Fibonacci.executor": "Run",
     "Python.Atividade 19 - Ordenação de Números.executor": "Run",
     "Python.Atividade 20 - Números Pares e Ímpares.executor": "Run",
+    "Python.Atividade 21 - Cálculo área de Círculo.executor": "Run",
     "Python.ex001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
