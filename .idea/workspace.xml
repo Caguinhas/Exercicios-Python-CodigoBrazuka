@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc621ae0-8177-4849-8c9e-c610ee3e742a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercícios/Atividade 16 - Contagem de Vogais.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Atividade 16 - Contagem de Vogais.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,17 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Atividade 15 - Tabuada.executor": "Run",
-    "Python.Atividade 16 - Contagem de Vogais.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/bruno/OneDrive/Documentos/MeusProjetos/Exercicios-Python-CodigoBrazuka/Exercícios/Atividade 15 - Tabuada.py",
-    "settings.editor.selected.configurable": "editor.preferences.webOptions"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Atividade 15 - Tabuada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Atividade 16 - Contagem de Vogais.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bruno/OneDrive/Documentos/MeusProjetos/Exercicios-Python-CodigoBrazuka/Exercícios/Atividade 15 - Tabuada.py&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.webOptions&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Atividade 15 - Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Exercicios-Python-CodigoBrazuka" />
