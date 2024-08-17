@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc621ae0-8177-4849-8c9e-c610ee3e742a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercícios/Atividade 16 - Contagem de Vogais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Atividade 15 - Tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Atividade 15 - Tabuada.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/Atividade 16 - Contagem de Vogais.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Atividade 16 - Contagem de Vogais.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,8 @@
     "Python.ex001.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/bruno/OneDrive/Documentos/MeusProjetos/Exercicios-Python-CodigoBrazuka/Exercícios/Atividade 15 - Tabuada.py"
+    "last_opened_file_path": "C:/Users/bruno/OneDrive/Documentos/MeusProjetos/Exercicios-Python-CodigoBrazuka/Exercícios/Atividade 15 - Tabuada.py",
+    "settings.editor.selected.configurable": "editor.preferences.webOptions"
   }
 }]]></component>
   <component name="RunManager">
@@ -49,6 +48,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12 (pythonProject1)" />
       <option name="WORKING_DIRECTORY" value="C:\Users\bruno\OneDrive\Documentos\MeusProjetos\Exercicios-Python-CodigoBrazuka" />
