@@ -17,5 +17,21 @@ while x != "s":
         num2 = int(input("Digite o segundo número:"))
         sub = num1 - num2
 
-        print(f"{num1} + {num2} = {soma}")
+        print(f"{num1} - {num2} = {sub}")
+        break
+
+    elif x == '*':
+        num1 = int(input("Digite o primeiro número:"))
+        num2 = int(input("Digite o segundo número:"))
+        mul = num1 * num2
+
+        print(f"{num1} * {num2} = {mul}")
+        break
+
+    elif x == '/':
+        num1 = int(input("Digite o primeiro número:"))
+        num2 = int(input("Digite o segundo número:"))
+        div = num1 / num2
+
+        print(f"{num1} / {num2} = {div}")
         break
