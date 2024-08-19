@@ -1,4 +1,4 @@
-def e_primo(num):
+def primo(num):
     if num < 2:
         return False
     
@@ -8,10 +8,10 @@ def e_primo(num):
         
     return True
 
-def primos_intervalo(inicio, fim):
-    return [num for num in range(inicio, fim + 1) if e_primo(num)]
+def primosintervalo(inicio, fim):
+    return [num for num in range(inicio, fim + 1) if primo(num)]
 
 inicio = int(input("Início do intervalo: "))
 fim = int(input("Final do intervalo: "))
 
-print(f"Números primos entre {inicio} e {fim}: {primos_intervalo(inicio, fim)}")
+print(f"Números primos entre {inicio} e {fim}: {primosintervalo(inicio, fim)}")
