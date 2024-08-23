@@ -4,7 +4,6 @@ fila = random.sample(range(1, 75), 5)
 
 numeros = []
 x = 0
-tentativas = 0
 sorte = 0
 
 for i in range(1, 75 + 1):
