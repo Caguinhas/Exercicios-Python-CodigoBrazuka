@@ -10,25 +10,26 @@ sorte = 0
 for i in range(1, 75 + 1):
         numeros.append(i)
 
-while fila != []:
+while fila:
     a = random.choice(numeros)
-    numeros.remove(a)
     x += 1
 
-    while sorte != a and a != fila:
+    while sorte != a:
         print(f"Cartela: {fila}")
-        print(f"Números não sorteados {numeros}")
+        print(f"Números não sorteados: {numeros}")
         sorte = int(input("Digite um número: "))
 
-        if sorte == a and a in fila:
-            print(f"Parabéns, você acertou! O número sorteado foi o {a}")
-            fila.remove(a)
+        if sorte == a:
+            if sorte in fila:
+                print(f"Parabéns, você acertou! O número sorteado foi o {a}")
+                fila.remove(a)
+            else:
+                print(f"O número sorteado foi o {a}, mas não está na cartela.")
+
+            numeros.remove(a)
             print(f"Números restantes na cartela: {fila}")
 
-        elif sorte == a and a not in fila:
-            print(f"Parabéns, você acertou! O número sorteado foi o {a}, mas o número sorteado não está na cartela")
-
         else:
-            print("Número incorreto, tente novamente")
+            print("Número incorreto, tente novamente.")
 
-print(f"Parabéns! Você completou a cartela com um total de {x} sorteios")
+print(f"Parabéns! Você completou a cartela com um total de {x} sorteios.")
